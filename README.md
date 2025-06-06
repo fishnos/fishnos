@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm fishnos</h1>
 <h3 align="center">A passionate frontend and app developer from New York</h3>
 
-- 📫 How to reach me: **dkny11692@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-kosukhin-82052634b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-kosukhin-82052634b" height="30" width="40" /></a>
