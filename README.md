@@ -1,70 +1,74 @@
-<h2 align="left">Hi 👋! My name is Daniel and I'm a passionate full-stack developer, from New York</h2>
+# Hello there 👋
 
-###
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=fishnos.fishnos&left_color=FFF5F7&right_color=FFB7C5)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fishnos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fishnos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-###
 
-<img align="right" height="150" src="https://imgs.search.brave.com/7yj1cwf0q6CyVGHXDcwUm1xq0KRuqoW5VwVQ5TNCQV4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHVyaW5hLmNvLnVr/L3NpdGVzL2RlZmF1/bHQvZmlsZXMvc3R5/bGVzL25wcGVfYXJ0/aWNsZV9saXN0aW5n/X2hvbWVfNDMwL3B1/YmxpYy8yMDIwLTEy/L0NhbiUyMENhdHMl/MjBEcmVhbVRFQVNF/Ui5qcGc_aXRvaz1O/cGpWZGNERA"  />
+class MechatronicsEngineer:
 
-###
+    def __init__(self):
+        self.name = "Daniel"
+        self.role = "Software Developer and Mechatronics Engineer Specializing in Trajectory Generation"
+        self.mission = "Pushing the advent of tech forward and helping those in need on the way."
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-</div>
+    def say_hi(self):
+        print("Hey, I am Daniel! Thank you for stopping by. I am so stoked to be doing great things in tech!")
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+me = MechatronicsEngineer()
+me.say_hi()
+```
 
-###
+---
 
-<br clear="both">
+## Tech & Tools
 
-###
+### Languages
+![Python](https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=8B4F5E&labelColor=FFF5F7)
+![C++](https://img.shields.io/badge/C%2B%2B-FFB7C5?style=for-the-badge&logo=c%2B%2B&logoColor=8B4F5E&labelColor=FFF5F7)
+![Java](https://img.shields.io/badge/Java-FFB7C5?style=for-the-badge&logo=openjdk&logoColor=8B4F5E&labelColor=FFF5F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB7C5?style=for-the-badge&logo=javascript&logoColor=8B4F5E&labelColor=FFF5F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFB7C5?style=for-the-badge&logo=typescript&logoColor=8B4F5E&labelColor=FFF5F7)
+![Swift](https://img.shields.io/badge/Swift-FFB7C5?style=for-the-badge&logo=swift&logoColor=8B4F5E&labelColor=FFF5F7)
+![HTML](https://img.shields.io/badge/HTML-FFB7C5?style=for-the-badge&logo=html5&logoColor=8B4F5E&labelColor=FFF5F7)
+![CSS](https://img.shields.io/badge/CSS-FFB7C5?style=for-the-badge&logo=css3&logoColor=8B4F5E&labelColor=FFF5F7)
+![C#](https://img.shields.io/badge/C%23-FFB7C5?style=for-the-badge&logo=csharp&logoColor=8B4F5E&labelColor=FFF5F7)
+
+### Robotics & Simulation
+![ROS 2](https://img.shields.io/badge/ROS%202-FFB7C5?style=for-the-badge&logo=ros&logoColor=8B4F5E&labelColor=FFF5F7)
+![RViz](https://img.shields.io/badge/RViz-FFB7C5?style=for-the-badge&logo=ros&logoColor=8B4F5E&labelColor=FFF5F7)
+![Gazebo](https://img.shields.io/badge/Gazebo-FFB7C5?style=for-the-badge&logo=gazebo&logoColor=8B4F5E&labelColor=FFF5F7)
+
+### ML & Perception
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB7C5?style=for-the-badge&logo=pytorch&logoColor=8B4F5E&labelColor=FFF5F7)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFB7C5?style=for-the-badge&logo=opencv&logoColor=8B4F5E&labelColor=FFF5F7)
+![Ultralytics](https://img.shields.io/badge/YOLO%20(Ultralytics)-FFB7C5?style=for-the-badge&logo=github&logoColor=8B4F5E&labelColor=FFF5F7)
+
+### Software & Frameworks
+![React](https://img.shields.io/badge/React-FFB7C5?style=for-the-badge&logo=react&logoColor=8B4F5E&labelColor=FFF5F7)
+![React Native](https://img.shields.io/badge/React%20Native-FFB7C5?style=for-the-badge&logo=react&logoColor=8B4F5E&labelColor=FFF5F7)
+![Next.js](https://img.shields.io/badge/Next.js-FFB7C5?style=for-the-badge&logo=nextdotjs&logoColor=8B4F5E&labelColor=FFF5F7)
+![Vercel](https://img.shields.io/badge/Vercel-FFB7C5?style=for-the-badge&logo=vercel&logoColor=8B4F5E&labelColor=FFF5F7)
+
+### Systems & Tooling
+![Linux](https://img.shields.io/badge/Linux-FFB7C5?style=for-the-badge&logo=linux&logoColor=8B4F5E&labelColor=FFF5F7)
+![Docker](https://img.shields.io/badge/Docker-FFB7C5?style=for-the-badge&logo=docker&logoColor=8B4F5E&labelColor=FFF5F7)
+![Git](https://img.shields.io/badge/Git-FFB7C5?style=for-the-badge&logo=git&logoColor=8B4F5E&labelColor=FFF5F7)
+![GitHub](https://img.shields.io/badge/GitHub-FFB7C5?style=for-the-badge&logo=github&logoColor=8B4F5E&labelColor=FFF5F7)
+
+---
+
+## Featured Projects
+
+[![CINE](https://github-readme-stats.vercel.app/api/pin/?username=fishnos&repo=CINE&title_color=8B4F5E&text_color=8B4F5E&icon_color=FFB7C5&bg_color=FFF5F7&border_color=FFB7C5&description_lines_count=3)](https://github.com/fishnos/CINE)
+
+[![CINE-Sensing](https://github-readme-stats.vercel.app/api/pin/?username=fishnos&repo=CINE-Sensing&title_color=8B4F5E&text_color=8B4F5E&icon_color=FFB7C5&bg_color=FFF5F7&border_color=FFB7C5&description_lines_count=3)](https://github.com/fishnos/CINE-Sensing)
+
+---
+
+> **Focus:** Autonomous systems • UAV trajectory generation • Perception-aware planning • Cinematic robotics  
+> Built through competitive robotics, independent research, and simulation-driven development
