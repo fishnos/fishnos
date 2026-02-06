@@ -13,6 +13,7 @@ class MechatronicsEngineer:
     def __init__(self):
         self.name = "Daniel"
         self.role = "Software Developer and Mechatronics Engineer Specializing in Trajectory Generation"
+        self.interests = "I love learning about philosophy and discussing it with others. Also anime lol!"
         self.mission = "Pushing the advent of tech forward and helping those in need on the way."
 
     def say_hi(self):
