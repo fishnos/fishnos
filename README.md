@@ -65,9 +65,7 @@ me.say_hi()
 
 ## Featured Projects
 
-[![CINE](https://github-readme-stats.vercel.app/api/pin/?username=fishnos&repo=CINE&title_color=8B4F5E&text_color=8B4F5E&icon_color=FFB7C5&bg_color=FFF5F7&border_color=FFB7C5&description_lines_count=3)](https://github.com/fishnos/CINE)
-
-[![CINE-Sensing](https://github-readme-stats.vercel.app/api/pin/?username=fishnos&repo=CINE-Sensing&title_color=8B4F5E&text_color=8B4F5E&icon_color=FFB7C5&bg_color=FFF5F7&border_color=FFB7C5&description_lines_count=3)](https://github.com/fishnos/CINE-Sensing)
+[![CINE](https://github-readme-stats.vercel.app/api/pin/?username=fishnos&repo=CINE&title_color=8B4F5E&text_color=8B4F5E&icon_color=FFB7C5&bg_color=FFF5F7&border_color=FFB7C5&description_lines_count=3)](https://github.com/fishnos/CINE) [![CINE-Sensing](https://github-readme-stats.vercel.app/api/pin/?username=fishnos&repo=CINE-Sensing&title_color=8B4F5E&text_color=8B4F5E&icon_color=FFB7C5&bg_color=FFF5F7&border_color=FFB7C5&description_lines_count=3)](https://github.com/fishnos/CINE-Sensing)
 
 ---
 
